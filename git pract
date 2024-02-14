@@ -1,0 +1,26 @@
+1  yum install git -y
+    2  git version
+    3  git config --global user.name "sree1131"
+    4  git config --global user.email "kuravasreekanth64@gmail.com"
+    5  git config -list
+    6  git config --list
+    7  clera
+    8  clear
+    9  mkdir chinna33
+   10  cd chinna33
+   11  git clone https://github.com/sree1131/chinna33.git
+   12  cd chinna33
+   13  ls
+   14  cat README.md
+   15  touch chinna3344.py
+   16  git init
+   17  git status
+   19  git add chinna3344.py
+   20  git commit -m "git added chinna3344.py"
+   21  git remote set-url origin https://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@github.com/sree1131/chinna33
+   22  git push origin main
+   23  clear
+   24  mkdir chinna33
+   25  cd chinna33
+   26  history
+[root@ip-172-31-90-118 chinna33]# 
